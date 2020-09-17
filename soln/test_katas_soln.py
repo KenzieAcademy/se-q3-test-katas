@@ -66,5 +66,5 @@ class TestKatas(unittest.TestCase):
             katas.fibonacci(-13)
 
 
-if __name__ == '__main__':
+if (__name__ == '__main__'):
     unittest.main()
